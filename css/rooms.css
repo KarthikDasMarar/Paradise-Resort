@@ -1,0 +1,90 @@
+
+/*------Title section------*/
+.container-fluid{
+    padding:  0% 2% 1% 0%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+
+.nav-link{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+#title{
+    height:100%;
+    background-image: url('images/paradise3.jpg');
+    object-fit: contain;
+    padding: 0px 50px 500px 50px;
+}
+
+.title-name{
+    color: #fff;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-decoration: none;    
+}
+.title-image{
+    position: relative;
+    right: 0px;
+}
+/*--Body----*/
+
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;  
+}
+.top{
+    position: relative;
+    top: 10;
+}
+.abt-back{
+    display: inline-block;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    position: relative;
+    color: #fff;
+    bottom: 400px;
+    left: 650px;
+}
+.room-img,.room-imgs{
+    padding: 20px;
+}
+.room-name,.room-names,.price,.prices
+{
+padding-top: 10px;
+font-size: 1.5rem;
+    color: #34656D;
+}
+.buttons{
+    background-color: #34656D;
+    color: #fff;
+    width: 10%;
+    position: relative;
+    left: 0px;
+    padding: 10px;
+    border: none;
+    border-radius: 10%;
+}
+/*--footer--*/
+#footer{
+    background-color:#34656D;
+    text-align: center;
+    margin-top: 10px;
+    padding: 2%;  
+}
+.footer{
+    color: #fff;
+}

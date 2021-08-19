@@ -1,0 +1,93 @@
+
+/*------Title section------*/
+.container-fluid{
+    padding:  0% 2% 1% 0%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+
+.nav-link{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+#title{
+    height: 100%;
+    background-image: url('images/about1.jpg');
+    object-fit: cover;
+    padding: 0px 5px 300px 2px;
+}
+
+.title-name{
+    color: #fff;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-decoration: none;    
+}
+/*------loginform------*/
+h2{
+    position: relative;
+    left: 450px;
+    bottom: 450px;
+    font-family: 'Yanone Kaffeesatz', sans-serif !important; 
+    color: #fff !important;
+    font-size: 5rem !important;
+    display: inline-block;
+}
+.man-name{
+    position: relative;
+    left: 300px;
+    bottom: 450px;
+    font-family: 'Yanone Kaffeesatz', sans-serif !important; 
+    color: #fff !important;
+    font-size: 5rem !important;
+    display: inline-block;
+}
+#loginform{
+    background-color: #fff;
+    padding-top: 80px;
+    padding: 3% 15% 5% 15%;
+    position: relative;
+}
+.form{
+    position: relative;
+    left: 10px;
+    border: 2px solid #34656D;
+    text-align: center;
+    padding: 40px 20px 40px 20px;
+}
+input{
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-color:#34656D;
+}
+input:focus
+{
+    outline:none;
+}
+.button{
+    background-color: #34656D;
+}
+
+/*--footer--*/
+#footer{
+    background-color:#34656D;
+    text-align: center;
+    margin-top: 50px;
+    padding: 7% 7%;  
+}
+.footer{
+    color:#fff;
+        font-family: 'Merriweather', serif;
+}

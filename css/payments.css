@@ -1,0 +1,101 @@
+
+/*------Title section------*/
+.container-fluid{
+    padding:  0% 2% 1% 0%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+
+}
+
+.nav-link{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+#title{
+    height:100%;
+    background-image: url('images/paradise3.jpg');
+    padding: 0px 50px 500px 50px;
+}
+
+.title-name{
+    color: #fff;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-decoration: none;    
+}
+.title-image{
+    position: relative;
+    right: 0px;
+}
+/*--Body----*/
+
+body{
+    background-color:#fff ;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;  
+}
+.abt-back{
+    display: inline-block;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    position: relative;
+    color: #fff; 
+    bottom: 400px;
+    left: 650px;
+}
+.pay-head{
+    position: absolute;
+    left: 600px;
+}
+form{
+    position: relative;
+    text-align: center;
+    border: 2px solid #34656D;
+    width: 80%;
+    top: 50px;
+    left: 130px;
+    padding: 30px 30px ;
+    margin-bottom: 100px;
+
+}
+.numberof{
+    width: 60px;
+}
+input,select{
+    text-align: center;
+    width: 40%;
+    padding: 10px;
+}
+input:focus,select:focus
+{
+    background-color: E8F6EF;
+}
+.submit{
+    position: relative;
+    left: 20px;
+    background-color: #34656D;
+}
+
+/*--footer--*/
+#footer{
+
+    background-color:#34656D;
+    text-align: center;
+    margin-top: 10px;
+    padding: 2%;  
+}
+.footer{
+    color: #fff;
+}
